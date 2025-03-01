@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Industrial-visit-Managemnet-System/static/css/main.b35f3462.css",
-    "main.js": "/Industrial-visit-Managemnet-System/static/js/main.1b469019.js",
+    "main.js": "/Industrial-visit-Managemnet-System/static/js/main.3327e9f2.js",
     "static/js/239.fc10bfe0.chunk.js": "/Industrial-visit-Managemnet-System/static/js/239.fc10bfe0.chunk.js",
     "static/js/213.8646f257.chunk.js": "/Industrial-visit-Managemnet-System/static/js/213.8646f257.chunk.js",
     "static/js/732.758239fc.chunk.js": "/Industrial-visit-Managemnet-System/static/js/732.758239fc.chunk.js",
@@ -29,7 +29,7 @@
     "static/media/sumago-logo.png": "/Industrial-visit-Managemnet-System/static/media/sumago-logo.aedefef91a4c71f886b2.png",
     "index.html": "/Industrial-visit-Managemnet-System/index.html",
     "main.b35f3462.css.map": "/Industrial-visit-Managemnet-System/static/css/main.b35f3462.css.map",
-    "main.1b469019.js.map": "/Industrial-visit-Managemnet-System/static/js/main.1b469019.js.map",
+    "main.3327e9f2.js.map": "/Industrial-visit-Managemnet-System/static/js/main.3327e9f2.js.map",
     "239.fc10bfe0.chunk.js.map": "/Industrial-visit-Managemnet-System/static/js/239.fc10bfe0.chunk.js.map",
     "213.8646f257.chunk.js.map": "/Industrial-visit-Managemnet-System/static/js/213.8646f257.chunk.js.map",
     "732.758239fc.chunk.js.map": "/Industrial-visit-Managemnet-System/static/js/732.758239fc.chunk.js.map",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.b35f3462.css",
-    "static/js/main.1b469019.js"
+    "static/js/main.3327e9f2.js"
   ]
 }
